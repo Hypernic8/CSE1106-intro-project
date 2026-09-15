@@ -1,5 +1,12 @@
 # CSE1106-intro-project
-Crellin
-Setting up GitHub repository
 
-Hello
+## Description
+
+## Technologies
+
+## How to Run
+
+## What I Learned
+
+## Future Improvments
+
